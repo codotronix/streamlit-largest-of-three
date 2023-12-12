@@ -32,7 +32,9 @@ def run():
     
     mx = max([n1, n2, n3])
 
-    st.write(f"### The largest number is **{mx}**")
+    st.write(f"## The largest number is **{mx}**")
+
+    st.write("(this app is created by _Suman Barick_)")
 
 
 
